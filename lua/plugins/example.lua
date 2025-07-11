@@ -98,7 +98,7 @@ return {
         },
     },
 
-    -- add symbols-outline
+    -- add symbols-outlin
     {
         "simrat39/symbols-outline.nvim",
         cmd = "SymbolsOutline",
